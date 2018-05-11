@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TPE>
+  <w>128</w>
+  <h>27</h>
+  <name>Default</name>
+  <hasAlpha>True</hasAlpha>
+  <hash>421109803</hash>
+  <xoffset>64</xoffset>
+  <yoffset>46</yoffset>
+  <cropWidth>128</cropWidth>
+  <cropHeight>27</cropHeight>
+  <ow>256</ow>
+  <oh>128</oh>
+  <image>sprite1_1.tpe.png</image>
+</TPE>

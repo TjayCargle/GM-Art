@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1">Default_0.png</texture>
+  <tpe x="2" y="2" tpage="Default_0" entry="0">sprite0_0.tpe</tpe>
+  <tpe x="118" y="2" tpage="Default_0" entry="1">sprite0_1.tpe</tpe>
+  <tpe x="2" y="54" tpage="Default_0" entry="2">sprite0_2.tpe</tpe>
+  <tpe x="118" y="54" tpage="Default_0" entry="3">sprite0_3.tpe</tpe>
+  <tpe x="2" y="106" tpage="Default_0" entry="4">sprite0_4.tpe</tpe>
+  <tpe x="118" y="106" tpage="Default_0" entry="5">sprite0_5.tpe</tpe>
+  <tpe x="2" y="158" tpage="Default_0" entry="6">sprite0_6.tpe</tpe>
+  <tpe x="118" y="158" tpage="Default_0" entry="7">sprite0_7.tpe</tpe>
+  <tpe x="2" y="210" tpage="Default_0" entry="9">sprite1_1.tpe</tpe>
+  <tpe x="2" y="242" tpage="Default_0" entry="10">sprite1_2.tpe</tpe>
+  <tpe x="146" y="210" tpage="Default_0" entry="11">sprite1_3.tpe</tpe>
+  <tpe x="146" y="242" tpage="Default_0" entry="8">sprite1_0.tpe</tpe>
+</TextureGroup>
